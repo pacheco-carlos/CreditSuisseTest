@@ -1,0 +1,15 @@
+C:\Users\Pacheco\source\repos\CreditSuisseTest\bin\Debug\net6.0\CreditSuisseTest.exe
+C:\Users\Pacheco\source\repos\CreditSuisseTest\bin\Debug\net6.0\CreditSuisseTest.deps.json
+C:\Users\Pacheco\source\repos\CreditSuisseTest\bin\Debug\net6.0\CreditSuisseTest.runtimeconfig.json
+C:\Users\Pacheco\source\repos\CreditSuisseTest\bin\Debug\net6.0\CreditSuisseTest.dll
+C:\Users\Pacheco\source\repos\CreditSuisseTest\bin\Debug\net6.0\CreditSuisseTest.pdb
+C:\Users\Pacheco\source\repos\CreditSuisseTest\obj\Debug\net6.0\CreditSuisseTest.csproj.AssemblyReference.cache
+C:\Users\Pacheco\source\repos\CreditSuisseTest\obj\Debug\net6.0\CreditSuisseTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pacheco\source\repos\CreditSuisseTest\obj\Debug\net6.0\CreditSuisseTest.AssemblyInfoInputs.cache
+C:\Users\Pacheco\source\repos\CreditSuisseTest\obj\Debug\net6.0\CreditSuisseTest.AssemblyInfo.cs
+C:\Users\Pacheco\source\repos\CreditSuisseTest\obj\Debug\net6.0\CreditSuisseTest.csproj.CoreCompileInputs.cache
+C:\Users\Pacheco\source\repos\CreditSuisseTest\obj\Debug\net6.0\CreditSuisseTest.dll
+C:\Users\Pacheco\source\repos\CreditSuisseTest\obj\Debug\net6.0\refint\CreditSuisseTest.dll
+C:\Users\Pacheco\source\repos\CreditSuisseTest\obj\Debug\net6.0\CreditSuisseTest.pdb
+C:\Users\Pacheco\source\repos\CreditSuisseTest\obj\Debug\net6.0\CreditSuisseTest.genruntimeconfig.cache
+C:\Users\Pacheco\source\repos\CreditSuisseTest\obj\Debug\net6.0\ref\CreditSuisseTest.dll
